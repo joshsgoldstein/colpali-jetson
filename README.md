@@ -1,3 +1,5 @@
+# This for is used with the proper pytorch for use with Jetpack 6 on the Jetson developer kits
+
 # ColPali: Efficient Document Retrieval with Vision Language Models 👀
 
 [![arXiv](https://img.shields.io/badge/arXiv-2407.01449-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2407.01449)
