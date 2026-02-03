@@ -1,4 +1,4 @@
-# This for is used with the proper pytorch for use with Jetpack 6 on the Jetson developer kits
+# This is used with the proper pytorch for use with Jetpack 6 on the Jetson developer kits
 
 # ColPali: Efficient Document Retrieval with Vision Language Models 👀
 
